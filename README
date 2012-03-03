@@ -1,4 +1,8 @@
-/*
+# This package is a port of cJSON to the Marmalade SDK.
+Original project home page is: http://cjson.sourceforge.net
+
+The original cJSON readme file:
+>/*
   Copyright (c) 2009 Dave Gamble
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
